@@ -1,11 +1,11 @@
 {
-  "name": "metadatas_scanner",
-  "version": "1.0.0",
-  "description": "",
-  "main": "scanner.js",
+  "name": "upnpserver-metadatas",
+  "version": "0.0.1",
+  "description": "Fill automatically metadatas of movies and tv series",
+  "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:oeuillot/upnpserver.git"
+    "url": "git@github.com:oeuillot/upnpserver-metadatas.git"
   },
   "engines": {
     "node": ">=4.2.0"

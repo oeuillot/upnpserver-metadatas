@@ -1,6 +1,6 @@
 const commander = require('commander');
 const debug = require('debug')('scanner');
-const Scanner = require('./scanner');
+const Scanner = require('./lib/scanner');
 
 commander.option("--progress", "Show download progress");
 
