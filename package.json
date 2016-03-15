@@ -14,7 +14,7 @@
     "async": "^1.5.2",
     "commander": "^2.9.0",
     "debug": "^2.2.0",
-    "moviedb": "^0.2.2",
+    "moviedb": "^0.2.3",
     "request": "^2.69.0"
   },
   "author": "Olivier Oeuillot",
